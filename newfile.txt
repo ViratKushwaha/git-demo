@@ -1,1 +1,2 @@
-This is a new txt file
+This is a new txt file.
+These are the changes as a part of branch. somebranch
